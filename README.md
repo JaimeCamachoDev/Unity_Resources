@@ -1,30 +1,27 @@
-# Unity_Resources
-This repository holds links to articles, tutorials, and code that I have found helpful while working on the Unity engine or that I have found while doing research.  I will try to keep this repository updated as often as I can.  I hope you find something here helpful for whatever you are working on.  If you have any suggestions, please post them as an Issue and I will look into them.  You can also submit suggestions as Pull Requests.  Because of the amount of items, I am breaking the lists into multiple pages.
+# Recursos para Unity
 
-Thank you for all the stars!  I am happy that people were able to find this repository helpful.
+Este repositorio contiene enlaces a artículos, tutoriales y código que he encontrado útiles mientras trabajaba con el motor de Unity o durante mis investigaciones. Intentaré mantener este repositorio actualizado con nuevos recursos.
 
-# Table of Contents
-- [Tutorial Sites](https://github.com/Endarren/Unity_Resources/tree/master/Tutorials) - Various tutorial sites.  Including Video, Text, and Project formats.
-- [Scripts](https://github.com/Endarren/Unity_Resources/tree/master/Scripts) - Scripts from various sources that have been useful.  
-- [Games](https://github.com/Endarren/Unity_Resources/tree/master/Games) - A list of games, both original or ports, that people have made or are making in Unity.
-- [Tools](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md) - Various tools to help you build your game.
-- [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders) - Various shaders and shader tutorials made by others.
-- [Search Tools](#searchtools)
-- [Trouble Shooting](https://github.com/Endarren/Unity_Resources/tree/master/Troubleshooting) - Answers to errors, exceptions, or problems in Unity.
-- [Performance Tips](#performance-tips)
+¡Gracias por todas las estrellas! Me alegra que la gente haya encontrado útil este repositorio.
 
+## Índice
 
+- [Sitios de Tutoriales](https://github.com/Endarren/Unity_Resources/tree/master/Tutorials) - Varios sitios de tutoriales, incluyendo formatos de video, texto y proyectos.
+- [Scripts](https://github.com/Endarren/Unity_Resources/tree/master/Scripts) - Scripts de diversas fuentes que han sido útiles.
+- [Juegos](https://github.com/Endarren/Unity_Resources/tree/master/Games) - Una lista de juegos, tanto originales como ports, que la gente ha hecho o está haciendo en Unity.
+- [Herramientas](https://github.com/Endarren/Unity_Resources/blob/master/Tools/Readme.md) - Varias herramientas para ayudarte a construir tu juego.
+- [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders) - Varios shaders y tutoriales sobre shaders hechos por otros.
+- [Herramientas de Búsqueda](#herramientas-de-busqueda)
+- [Solución de Problemas](https://github.com/Endarren/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
+- [Consejos de Rendimiento](#consejos-de-rendimiento)
 
+## Herramientas de Búsqueda
+- [GitHub](https://github.com) - Una opción obvia, especialmente si estás leyendo esta página.
+- [UnityList](http://unitylist.com/) - Un motor de búsqueda que revisa sitios con contenido de Unity para encontrar lo que buscas.
 
-
-## Search Tools
-* [GitHub](github.com) - An obvious one, especially if you are reading this page.
-* [UnityList](http://unitylist.com/) - A search engine that looks over sites with Unity content to find what you are looking for.
-
-
-## Performance Tips
+## Consejos de Rendimiento
 ### [Gamasutra](https://www.gamasutra.com/)
-* [C# Memory Management for Unity Developers](https://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
-* [50 Tips and Best Practices for Unity](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
-* [How to Fix Common Physics Problems in Your Game](https://gamedevelopment.tutsplus.com/articles/how-to-fix-common-physics-problems-in-your-game--cms-21418)
-* [fliperamma - Performance tips for Unity3D](http://fliperamma.com/performance-tips-for-unity3d/)
+- [C# Memory Management for Unity Developers](https://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
+- [50 Tips and Best Practices for Unity](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
+- [How to Fix Common Physics Problems in Your Game](https://gamedevelopment.tutsplus.com/articles/how-to-fix-common-physics-problems-in-your-game--cms-21418)
+- [fliperamma - Performance tips for Unity3D](http://fliperamma.com/performance-tips-for-unity3d/)
