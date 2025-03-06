@@ -13,7 +13,7 @@ Este repositorio contiene enlaces a artículos, tutoriales y código que he enco
 - [Shaders](https://github.com/Endarren/Unity_Resources/tree/master/Shaders) - Varios shaders y tutoriales sobre shaders hechos por otros.
 - [Herramientas de Búsqueda](#herramientas-de-busqueda)
 - [Solución de Problemas](https://github.com/Endarren/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
-- [Consejos de Rendimiento](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Optimizacion)
+- [Optimizacion](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Optimizacion)
 
 ## Herramientas de Búsqueda
 - [GitHub](https://github.com) - Una opción obvia, especialmente si estás leyendo esta página.
