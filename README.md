@@ -6,12 +6,12 @@ Este repositorio contiene enlaces a artículos, tutoriales y código que he enco
 
 ## Índice
 
-9| - [Sitios de Tutoriales](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Tutorials) - Varios sitios de tutoriales, incluyendo formatos de video, texto y proyectos.
-10| - [Scripts](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Scripts) - Scripts de diversas fuentes que han sido útiles.
-11| - [Juegos](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Games) - Una lista de juegos, tanto originales como ports, que la gente ha hecho o está haciendo en Unity.
-12| - [Herramientas](https://github.com/JaimeCamachoDev/Unity_Resources/blob/master/Tools/Readme.md) - Varias herramientas para ayudarte a construir tu juego.
-13| - [Shaders](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Shaders) - Varios shaders y tutoriales sobre shaders hechos por otros.
-17| - [Solución de Problemas](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
+-  [Sitios de Tutoriales](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Tutorials) - Varios sitios de tutoriales, incluyendo formatos de video, texto y proyectos.
+-  [Scripts](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Scripts) - Scripts de diversas fuentes que han sido útiles.
+-  [Juegos](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Games) - Una lista de juegos, tanto originales como ports, que la gente ha hecho o está haciendo en Unity.
+-  [Herramientas](https://github.com/JaimeCamachoDev/Unity_Resources/blob/master/Tools/Readme.md) - Varias herramientas para ayudarte a construir tu juego.
+-  [Shaders](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Shaders) - Varios shaders y tutoriales sobre shaders hechos por otros.
+-  [Solución de Problemas](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
 - [Herramientas de Búsqueda](#herramientas-de-busqueda)
 - [Recursos de Shaders y VFX](#recursos-de-shaders-y-vfx)
 - [Sitios de Desarrollo de Videojuegos](#sitios-de-desarrollo-de-videojuegos)
