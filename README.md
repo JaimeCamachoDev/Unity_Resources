@@ -36,3 +36,6 @@ Este repositorio contiene enlaces a artículos, tutoriales y código que he enco
 - [50 Tips and Best Practices for Unity](https://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php)
 - [How to Fix Common Physics Problems in Your Game](https://gamedevelopment.tutsplus.com/articles/how-to-fix-common-physics-problems-in-your-game--cms-21418)
 - [fliperamma - Performance tips for Unity3D](http://fliperamma.com/performance-tips-for-unity3d/)
+
+## Referencias 
+Para ver a la gente a quien aspiro parecerme, visita [Referencias](./Referencias/README.md). 
