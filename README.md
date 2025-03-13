@@ -47,3 +47,91 @@ Para ver a la gente a quien aspiro parecerme, visita [Referencias](./Referencias
   - [Volumetric Blood Fluids Free Download](https://unityassetcollection.com/volumetric-blood-fluids-free-download/)
   - [Blood Assets Collection](https://unityassetcollection.com/page/2/?s=blood)
   - [Hitfile Blood Resources](https://hitfile.net/56itMgj)
+
+
+# Unity Resources
+
+## Introducción
+Breve descripción del repositorio y su propósito.
+
+## Índice
+- [Proyectos](#proyectos)
+  - [Games](#games)
+  - [Nongames](#nongames)
+  - [Shops](#shops)
+- [Recursos](#recursos)
+  - [Assets](#assets)
+    - [Modelos](#modelos)
+    - [Animaciones](#animaciones)
+    - [VF (Visual Effects)](#vf-visual-effects)
+  - [Scripts](#scripts)
+  - [Shaders](#shaders)
+- [Herramientas y Utilidades](#herramientas-y-utilidades)
+  - [Pipelines](#pipelines)
+  - [Plugins](#plugins)
+  - [Packages](#packages)
+  - [Tools](#tools)
+- [Documentación y Ayuda](#documentación-y-ayuda)
+  - [Referencias](#referencias)
+  - [Tutoriales](#tutoriales)
+  - [Optimización](#optimización)
+- [Otros](#otros)
+  - [Autores](#autores)
+  - [Webs](#webs)
+
+## Proyectos
+### Games
+Descripción de los juegos incluidos.
+
+### Nongames
+Descripción de los proyectos no relativos a juegos.
+
+### Shops
+Recursos relacionados con tiendas y comercio.
+
+## Recursos
+### Assets
+#### Modelos
+Recursos de modelos 3D.
+
+#### Animaciones
+Recursos de animación.
+
+#### VF (Visual Effects)
+Efectos visuales.
+
+### Scripts
+Scripts disponibles y su funcionalidad.
+
+### Shaders
+Shaders utilizados y su configuración.
+
+## Herramientas y Utilidades
+### Pipelines
+Descripción de las pipelines y flujos de trabajo.
+
+### Plugins
+Plugins recomendados y su uso.
+
+### Packages
+Paquetes y librerías adicionales.
+
+### Tools
+Herramientas útiles.
+
+## Documentación y Ayuda
+### Referencias
+Enlaces y referencias útiles.
+
+### Tutoriales
+Guías y tutoriales para el uso del repositorio.
+
+### Optimización
+Consejos y técnicas de optimización.
+
+## Otros
+### Autores
+Información sobre los autores y colaboradores.
+
+### Webs
+Enlaces a sitios web relevantes.
