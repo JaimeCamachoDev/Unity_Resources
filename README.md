@@ -134,4 +134,4 @@ Consejos y técnicas de optimización.
 Información sobre los autores y colaboradores.
 
 ### Webs
-Enlaces a sitios web relevantes.
+Enlaces a sitios web relevantes..
