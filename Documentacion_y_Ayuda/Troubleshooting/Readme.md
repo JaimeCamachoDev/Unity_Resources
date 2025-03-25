@@ -1,4 +1,6 @@
+problema con los shaders a pantalla completa 
 
+https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@15.0/manual/fullscreen-shader.html 
 
 # Error Messages
 Special thanks to [this post](https://answers.unity.com/questions/155200/stuff-is-going-wacky-checklist-compiler-errors-syn.html) for many of the error messages.  
