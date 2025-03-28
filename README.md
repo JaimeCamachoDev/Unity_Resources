@@ -38,15 +38,15 @@ Breve descripción del repositorio y su propósito.
 
 ## Índice
 - [Proyectos](Proyectos)
-  - [Games](Proyectos/Games)
-  - [Nongames](Proyectos/NonGames)
-  - [Shops](Proyectos/Shops)
+  - [Games](Proyectos/Games) Descripción de los juegos incluidos.
+  - [Nongames](Proyectos/NonGames) Descripción de los proyectos no relativos a juegos.
+  - [Shops](Proyectos/Shops) Recursos relacionados con tiendas y comercio.
   - 
 - [Recursos](Recursos)
   - [Assets](#assets)
-    - [Modelos](#modelos)
-    - [Animaciones](#animaciones)
-    - [VF (Visual Effects)](#vf-visual-effects)
+    - [Modelos](#modelos) Recursos de modelos 3D.
+    - [Animaciones](#animaciones) Recursos de animación.
+    - [VF (Visual Effects)](#vf-visual-effects) Efectos visuales.
   - [Scripts](#scripts)
   - [Shaders](#shaders)
   - 
@@ -65,27 +65,6 @@ Breve descripción del repositorio y su propósito.
 - [Otros](#otros)
   - [Autores](#autores)
   - [Webs](#webs)
-
-## Proyectos
-### Games
-Descripción de los juegos incluidos.
-
-### Nongames
-Descripción de los proyectos no relativos a juegos.
-
-### Shops
-Recursos relacionados con tiendas y comercio.
-
-## Recursos
-### Assets
-#### Modelos
-Recursos de modelos 3D.
-
-#### Animaciones
-Recursos de animación.
-
-#### VF (Visual Effects)
-Efectos visuales.
 
 ### Scripts
 Scripts disponibles y su funcionalidad.
