@@ -55,11 +55,11 @@ Para ver a la gente a quien aspiro parecerme, visita [Referencias](./Referencias
 Breve descripción del repositorio y su propósito.
 
 ## Índice
-- [Proyectos](#proyectos)
+- [Proyectos](Proyectos)
   - [Games](Proyectos/Games)
   - [Nongames](Proyectos/NonGames)
-  - [Shops](#shops)
-- [Recursos](#recursos)
+  - [Shops](Proyectos/Shops)
+- [Recursos](Recursos)
   - [Assets](#assets)
     - [Modelos](#modelos)
     - [Animaciones](#animaciones)
