@@ -56,8 +56,8 @@ Breve descripción del repositorio y su propósito.
 
 ## Índice
 - [Proyectos](#proyectos)
-  - [Games](#games)
-  - [Nongames](#nongames)
+  - [Games](Proyectos/Games)
+  - [Nongames](Proyectos/NonGames)
   - [Shops](#shops)
 - [Recursos](#recursos)
   - [Assets](#assets)
