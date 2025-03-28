@@ -1,9 +1,4 @@
 # Recursos para Unity
-- [Herramientas de Búsqueda](#herramientas-de-busqueda)
-- [Recursos de Shaders y VFX](#recursos-de-shaders-y-vfx)
-- [Sitios de Desarrollo de Videojuegos](#sitios-de-desarrollo-de-videojuegos)
-- [Solución de Problemas](https://github.com/Endarren/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
-- [Optimizacion](https://github.com/JaimeCamachoDev/Unity_Resources/tree/master/Optimizacion)
 
 ## Herramientas de Búsqueda
 - [GitHub](https://github.com) - Una opción obvia, especialmente si estás leyendo esta página.
@@ -46,6 +41,7 @@ Breve descripción del repositorio y su propósito.
   - [Games](Proyectos/Games)
   - [Nongames](Proyectos/NonGames)
   - [Shops](Proyectos/Shops)
+  - 
 - [Recursos](Recursos)
   - [Assets](#assets)
     - [Modelos](#modelos)
@@ -53,15 +49,19 @@ Breve descripción del repositorio y su propósito.
     - [VF (Visual Effects)](#vf-visual-effects)
   - [Scripts](#scripts)
   - [Shaders](#shaders)
+  - 
 - [Herramientas y Utilidades](#herramientas-y-utilidades)
   - [Pipelines](#pipelines)
   - [Plugins](#plugins)
   - [Packages](#packages)
   - [Tools](#tools)
+  - 
 - [Documentación y Ayuda](#documentación-y-ayuda)
   - [Referencias](#referencias)
   - [Tutoriales](#tutoriales)
   - [Optimización](#optimización)
+  - [Solución de Problemas](https://github.com/Endarren/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
+
 - [Otros](#otros)
   - [Autores](#autores)
   - [Webs](#webs)
