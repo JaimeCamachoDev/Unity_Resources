@@ -43,12 +43,12 @@ Breve descripción del repositorio y su propósito.
   - [Shops](Proyectos/Shops) Recursos relacionados con tiendas y comercio.
   - 
 - [Recursos](Recursos)
-  - [Assets](#assets)
+  - [Assets](Recursos/Assets)
     - [Modelos](#modelos) Recursos de modelos 3D.
     - [Animaciones](#animaciones) Recursos de animación.
     - [VF (Visual Effects)](#vf-visual-effects) Efectos visuales.
-  - [Scripts](#scripts)
-  - [Shaders](#shaders)
+  - [Scripts](Recursos/Scripts)
+  - [Shaders](Recursos/Shaders)
   - 
 - [Herramientas y Utilidades](#herramientas-y-utilidades)
   - [Pipelines](#pipelines)
