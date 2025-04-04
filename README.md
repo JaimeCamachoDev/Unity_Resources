@@ -47,14 +47,14 @@ Breve descripción del repositorio y su propósito.
     - [Modelos](#modelos) Recursos de modelos 3D.
     - [Animaciones](#animaciones) Recursos de animación.
     - [VF (Visual Effects)](#vf-visual-effects) Efectos visuales.
-  - [Scripts](Recursos/Scripts)
-  - [Shaders](Recursos/Shaders)
+  - [Scripts](Recursos/Scripts)Scripts disponibles y su funcionalidad.
+  - [Shaders](Recursos/Shaders)Shaders utilizados y su configuración.
   - 
-- [Herramientas y Utilidades](#herramientas-y-utilidades)
-  - [Pipelines](#pipelines)
+- [Herramientas y Utilidades](Herramientas_y_Utilidades)
+  - [Pipelines](Herramientas_y_Utilidades/Pipelines)
   - [Plugins](#plugins)
   - [Packages](#packages)
-  - [Tools](#tools)
+  - [Tools](Herramientas_y_Utilidades/Tools)
   - 
 - [Documentación y Ayuda](#documentación-y-ayuda)
   - [Referencias](#referencias)
@@ -67,10 +67,10 @@ Breve descripción del repositorio y su propósito.
   - [Webs](#webs)
 
 ### Scripts
-Scripts disponibles y su funcionalidad.
+
 
 ### Shaders
-Shaders utilizados y su configuración.
+
 
 ## Herramientas y Utilidades
 ### Pipelines
