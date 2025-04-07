@@ -52,9 +52,9 @@ Breve descripción del repositorio y su propósito.
   - 
 - [Herramientas y Utilidades](Herramientas_y_Utilidades)
   - [Pipelines](Herramientas_y_Utilidades/Pipelines) Descripción de las pipelines y flujos de trabajo.
-  - [Plugins](#plugins)
-  - [Packages](#packages)
-  - [Tools](Herramientas_y_Utilidades/Tools)
+  - [Plugins](Herramientas_y_Utilidades/Plugins)
+  - [Packages](Herramientas_y_Utilidades/Packages) Paquetes y librerías adicionales.
+  - [Tools](Herramientas_y_Utilidades/Tools) Herramientas útiles.
   - 
 - [Documentación y Ayuda](#documentación-y-ayuda)
   - [Referencias](#referencias)
@@ -66,24 +66,10 @@ Breve descripción del repositorio y su propósito.
   - [Autores](#autores)
   - [Webs](#webs)
 
-### Scripts
 
 
-### Shaders
 
 
-## Herramientas y Utilidades
-### Pipelines
-
-
-### Plugins
-
-
-### Packages
-Paquetes y librerías adicionales.
-
-### Tools
-Herramientas útiles.
 
 ## Documentación y Ayuda
 ### Referencias
