@@ -56,10 +56,10 @@ Breve descripción del repositorio y su propósito.
   - [Packages](Herramientas_y_Utilidades/Packages) Paquetes y librerías adicionales.
   - [Tools](Herramientas_y_Utilidades/Tools) Herramientas útiles.
   - 
-- [Documentación y Ayuda](#documentación-y-ayuda)
+- [Documentación y Ayuda](Documentacion_y_Ayuda)
   - [Referencias](#referencias)
   - [Tutoriales](#tutoriales)
-  - [Optimización](#optimización)
+  - [Optimización](Documentacion_y_Ayuda/Optimizacion) Consejos y técnicas de optimización.
   - [Solución de Problemas](https://github.com/Endarren/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
 
 - [Otros](#otros)
@@ -79,7 +79,7 @@ Enlaces y referencias útiles.
 Guías y tutoriales para el uso del repositorio.
 
 ### Optimización
-Consejos y técnicas de optimización.
+
 
 ## Otros
 ### Autores
