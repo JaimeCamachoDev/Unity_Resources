@@ -51,7 +51,7 @@ Breve descripción del repositorio y su propósito.
   - [Shaders](Recursos/Shaders) Shaders utilizados y su configuración.
   - 
 - [Herramientas y Utilidades](Herramientas_y_Utilidades)
-  - [Pipelines](Herramientas_y_Utilidades/Pipelines)
+  - [Pipelines](Herramientas_y_Utilidades/Pipelines) Descripción de las pipelines y flujos de trabajo.
   - [Plugins](#plugins)
   - [Packages](#packages)
   - [Tools](Herramientas_y_Utilidades/Tools)
@@ -74,10 +74,10 @@ Breve descripción del repositorio y su propósito.
 
 ## Herramientas y Utilidades
 ### Pipelines
-Descripción de las pipelines y flujos de trabajo.
+
 
 ### Plugins
-Plugins recomendados y su uso.
+
 
 ### Packages
 Paquetes y librerías adicionales.
