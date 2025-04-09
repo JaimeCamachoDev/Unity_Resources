@@ -17,6 +17,7 @@ I am thinking about how to organize this page better and I am open to suggestion
 * [Unity Visualizations](https://github.com/WorldOfZero/UnityVisualizations)
 * [Pattern Shaders](https://github.com/shaggun/Pattern-Shaders)
 * [Unity Mobile Shaders](https://github.com/QianMo/Unity-Mobile-Shader)
+* [Toon Pro - Ultimate Stylized Shading](https://assetstore.unity.com/packages/vfx/shaders/toon-pro-ultimate-stylized-shading-225921?clickref=1101lAe5ISZW&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate)
 
 * [Contact Shadow](https://github.com/keijiro/ContactShadows)
 * [Binary Image Filter](https://github.com/keijiro/KinoBinary)
