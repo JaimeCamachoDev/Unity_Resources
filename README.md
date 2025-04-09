@@ -1,4 +1,4 @@
-# Recursos para Unity
+
 
 ## Sitios de Desarrollo de Videojuegos
 - [Game Developer](https://www.gamedeveloper.com/?_ga=2.139006966.433334962.1724435955-1585850805.1724435925)
@@ -11,11 +11,7 @@
   - [Blood Assets Collection](https://unityassetcollection.com/page/2/?s=blood)
   - [Hitfile Blood Resources](https://hitfile.net/56itMgj)
 
-
 # Unity Resources
-
-## Introducción
-Breve descripción del repositorio y su propósito.
 
 ## Índice
 - [Proyectos](Proyectos)
@@ -44,17 +40,5 @@ Breve descripción del repositorio y su propósito.
   - [Solución de Problemas](https://github.com/Endarren/Unity_Resources/tree/master/Troubleshooting) - Respuestas a errores, excepciones o problemas en Unity.
 
 - [Otros](#otros)
-  - [Autores](#autores)
-  - [Webs](#webs)
-
-
-
-
-
-
-## Otros
-### Autores
-Información sobre los autores y colaboradores.
-
-### Webs
-Enlaces a sitios web relevantes..
+  - [Autores](Otros/Autores) Información sobre los autores y colaboradores.
+  - [Webs](Otros/Webs) Enlaces a sitios web relevantes..
