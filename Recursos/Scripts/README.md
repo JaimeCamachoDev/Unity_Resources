@@ -79,7 +79,8 @@ Here are some scripts and projects that I have found useful. They have been orga
 * Has many scripts, but has not been updated lately.  At least with anything Unity related.  I still recommend checking it out.
 ### [Trinit](http://trinit.es/unity/)
 (TEXT) Code was written in Spanish (I think).
-* [Cone Cast](trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
+* [Cone Cast](http://trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
+
 
 ## Coding
 

@@ -20,6 +20,7 @@
 
 - [Documentación y Ayuda](Documentacion_y_Ayuda/README.md)
   - [Referencias](Documentacion_y_Ayuda/Referencias/README.md) Enlaces y referencias útiles.
+  - [Memo Keijiro](Documentacion_y_Ayuda/Referencias/keijiro_memo.md) Notas sobre el trabajo de Keijiro Takahashi.
   - [Tutoriales](Documentacion_y_Ayuda/Tutorials/README.md) Guías y tutoriales para el uso del repositorio.
   - [Optimización](Documentacion_y_Ayuda/Optimizacion/README.md) Consejos y técnicas de optimización.
   - [Troubleshooting](Documentacion_y_Ayuda/Troubleshooting/README.md) Respuestas a errores, excepciones o problemas en Unity.
