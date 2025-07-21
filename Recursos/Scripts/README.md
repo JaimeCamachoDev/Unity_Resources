@@ -81,7 +81,6 @@ Here are some scripts and projects that I have found useful. They have been orga
 (TEXT) Code was written in Spanish (I think).
 * [Cone Cast](http://trinit.es/unity/scripts/csharp/raycast/Conecast.cs) 
 
-
 ## Coding
 
 * [Check if a layer is in a LayerMask](https://answers.unity.com/questions/50279/check-if-layer-is-in-layermask.html)

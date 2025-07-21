@@ -1,6 +1,8 @@
 # Optimizacion
 
-- [OVR metrics](https://developers.meta.com/horizon/documentation/unity/ts-ovrstats?locale=es_ES) - Medición de rendimiento en dispositivos Meta.
+Recopilación de artículos y consejos para mejorar el rendimiento en Unity.
+
+- [OVR metrics](https://developers.meta.com/horizon/documentation/unity/ts-ovrstats?locale=es_ES) - Medición en dispositivos Meta.
 - [Texturas](https://www.youtube.com/watch?v=AZLdsIG5ypk&t=65s) - Consejos para optimizar texturas.
 - [Optimizing your VR/AR Experiences - Unity Learn](https://www.youtube.com/watch?v=swQFRKlgL24)
 - [Guía de XR Bootcamp](https://xrbootcamp.com/unity-optimization-tips/)

@@ -8,3 +8,4 @@ Keijiro es conocido por compartir proyectos experimentales y efectos visuales av
 - [Depth Inverse Projection](https://github.com/keijiro/DepthInverseProjection) - Ejemplo de uso avanzado de buffers de profundidad.
 
 Estas notas funcionan como recordatorio rápido del estilo creativo de Keijiro y sus aportes a la comunidad.
+
