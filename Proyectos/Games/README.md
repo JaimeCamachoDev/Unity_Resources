@@ -7,11 +7,11 @@ Colección de ejemplos y juegos desarrollados en Unity.
 
 | [<img src="https://opengraph.githubassets.com/1/Adamaximum/TheStanleyParableClone" alt="The Stanley Parable Clone" width="300"/>](https://github.com/Adamaximum/TheStanleyParableClone) | [<img src="https://opengraph.githubassets.com/1/VietTho1989/TurnBasedGame" alt="Turn Based Game" width="300"/>](https://github.com/VietTho1989/TurnBasedGame) | [<img src="https://opengraph.githubassets.com/1/Trigary/BotMender" alt="BotMender" width="300"/>](https://github.com/Trigary/BotMender) |
 | --- | --- | --- |
-| [The Stanley Parable Clone](https://github.com/Adamaximum/TheStanleyParableClone) - Repositorio de juego en Unity | [Turn Based Game](https://github.com/VietTho1989/TurnBasedGame) - Repositorio de juego en Unity | [BotMender](https://github.com/Trigary/BotMender) - Repositorio de juego en Unity |
+| [The Stanley Parable Clone](https://github.com/Adamaximum/TheStanleyParableClone) | [Turn Based Game](https://github.com/VietTho1989/TurnBasedGame) | [BotMender](https://github.com/Trigary/BotMender) |
 
 | [<img src="https://opengraph.githubassets.com/1/Senexis/ArenaDefense" alt="Arena Defense" width="300"/>](https://github.com/Senexis/ArenaDefense) | [<img src="https://opengraph.githubassets.com/1/dgkanatsios/AngryBirdsStyleGame" alt="Angry Birds style game" width="300"/>](https://github.com/dgkanatsios/AngryBirdsStyleGame) | [<img src="https://opengraph.githubassets.com/1/dgkanatsios/MatchThreeGame" alt="Match Three Game" width="300"/>](https://github.com/dgkanatsios/MatchThreeGame) |
 | --- | --- | --- |
-| [Arena Defense](https://github.com/Senexis/ArenaDefense) - Repositorio de juego en Unity | [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) - Repositorio de juego en Unity | [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame) - Repositorio de juego en Unity |
+| [Arena Defense](https://github.com/Senexis/ArenaDefense) | [Angry Birds style game](https://github.com/dgkanatsios/AngryBirdsStyleGame) | [Match Three Game](https://github.com/dgkanatsios/MatchThreeGame) |
 
 | [<img src="https://opengraph.githubassets.com/1/OpenHogwarts/hogwarts" alt="Hogwarts" width="300"/>](https://github.com/OpenHogwarts/hogwarts) | [<img src="https://opengraph.githubassets.com/1/Symon799/AoT_FanGame" alt="Attack on Titan fan game" width="300"/>](https://github.com/Symon799/AoT_FanGame) | [<img src="https://opengraph.githubassets.com/1/OpenMafia/MafiaUnity" alt="Mafia Unity" width="300"/>](https://github.com/OpenMafia/MafiaUnity) |
 | --- | --- | --- |
