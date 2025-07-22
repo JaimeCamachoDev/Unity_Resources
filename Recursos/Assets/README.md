@@ -15,3 +15,4 @@ Este directorio contiene varios recursos utilizados en el proyecto Unity.
 - [Free Unity Asset Store Content](https://www.youtube.com/watch?v=jGy4htAuDY4&list=PLb34wPRpZdVdi5i4Kp6NFwusZtHSHfvkN) - Contenido gratuito del Asset Store.
 - [Blood VFX](BloodVFX/README.md) - Recursos de efectos visuales de sangre.
 - [Free Textures](https://www.textures.com/library) - Biblioteca de texturas gratuitas.
+

@@ -13,6 +13,7 @@ Agradecimientos a [este post](https://answers.unity.com/questions/155200/stuff-i
 ### !slot->GetLocalAABB().IsValid()
 
 Ocurre cuando un objeto tiene una escala de cero o un valor muy grande.
+
 - <https://answers.unity.com/questions/8276/what-causes-error-sh-maabbisvalid.html>
 - <https://answers.unity.com/questions/11016/what-does-slot-getlocalaabbisvalid-mean.html>
 
