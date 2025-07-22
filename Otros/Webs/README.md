@@ -1,3 +1,4 @@
+# Webs
 
 ## Herramientas de Búsqueda
 - [GitHub](https://github.com) - Una opción obvia, especialmente si estás leyendo esta página.
@@ -7,3 +8,4 @@
 
 ## Sitios de Desarrollo de Videojuegos
 - [Game Developer](https://www.gamedeveloper.com/)
+- [Game Developer](https://www.gamedeveloper.com/) - Portal con noticias y articulos
