@@ -3,8 +3,9 @@
 Colección de ejemplos y juegos desarrollados en Unity.
 
 # Ejemplos
+* [The Stanley Parable Clone](https://github.com/Adamaximum/TheStanleyParableClone) - Repositorio de juego en Unity
 
-* [<img src="https://opengraph.githubassets.com/1/Adamaximum/TheStanleyParableClone" alt="The Stanley Parable Clone" width="200"/>](https://github.com/Adamaximum/TheStanleyParableClone) [The Stanley Parable Clone](https://github.com/Adamaximum/TheStanleyParableClone) - Repositorio de juego en Unity
+[<img src="https://opengraph.githubassets.com/1/Adamaximum/TheStanleyParableClone" alt="The Stanley Parable Clone" width="300"/>](https://github.com/Adamaximum/TheStanleyParableClone)
 * [<img src="https://opengraph.githubassets.com/1/VietTho1989/TurnBasedGame" alt="Turn Based Game" width="100"/>](https://github.com/VietTho1989/TurnBasedGame) [Turn Based Game](https://github.com/VietTho1989/TurnBasedGame) - Repositorio de juego en Unity
 * [<img src="https://opengraph.githubassets.com/1/Trigary/BotMender" alt="BotMender" width="100"/>](https://github.com/Trigary/BotMender) [BotMender](https://github.com/Trigary/BotMender) - Repositorio de juego en Unity
 * [<img src="https://opengraph.githubassets.com/1/Senexis/ArenaDefense" alt="Arena Defense" width="100"/>](https://github.com/Senexis/ArenaDefense) [Arena Defense](https://github.com/Senexis/ArenaDefense) - Repositorio de juego en Unity
