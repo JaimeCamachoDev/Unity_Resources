@@ -2,7 +2,7 @@
 
 Colección de ejemplos y juegos desarrollados en Unity.
 
-# Example Projects
+# Ejemplos
 
 * [The Stanley Parable Clone](https://github.com/Adamaximum/TheStanleyParableClone)
 * [Turn Based Game](https://github.com/VietTho1989/TurnBasedGame)
@@ -28,31 +28,39 @@ Colección de ejemplos y juegos desarrollados en Unity.
 * [Diablerie](https://github.com/mofr/Diablerie) - Diablo 2 in Unity
 * [Armor Critical](https://github.com/jamesh38/ArmorCritical)
 # Splatoon
-* [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon)
-* [Splatoon-2d](https://github.com/NamanHegde38/splatoon-2d)
+* [UnityDemo Splatoon](https://github.com/xieliujian/UnityDemo_Splatoon) - Demo básica del shooter de tinta.
+* [Splatoon-2d](https://github.com/NamanHegde38/splatoon-2d) - Versión en 2D inspirada en Splatoon.
 # Block Breaker
 * [Block Break Original](https://github.com/CompleteUnityDeveloper/Block-Breaker-Original)
 * [Complete Unity Developer - Block Breaker](https://github.com/CompleteUnityDeveloper/05-Block-Breaker)
 * [JtMeulen - Block Breaker](https://github.com/JtMeulen/unity-block-breaker)
 * [S4ND1X - Block Breaker](https://github.com/S4ND1X/UnityProjects-BlockBreaker)
 
-# RTS (Real Time Strategy)
+# Plataformas
+* [Platformer Microgame](https://github.com/mollee55/PlatformerMicrogameTutorial) - Microjuego oficial de Unity con estilo cartoon.
+* [Ragnarok](https://github.com/JasonVanRaamsdonk/Ragnarok) - Ejemplo clásico de plataformas 2D.
+* [Unity Pixel Perfect](https://github.com/clifordunique/Unity-Pixel-Perfect) - Base para juegos al estilo Celeste.
+
+# RTS (Estrategia en Tiempo Real)
+
 * [Hyperion](https://github.com/fededevi/Hyperion) - Space based RTS.  It is old, but has a lot of code that could be used as a starting point.
 * [Urius - Unity RTS Game Prototype](https://github.com/urius/unity-rts-game-prototype) - Uses DOTs.
 * [Daniel KM - Unity RTS](https://github.com/DanielKM/unity-RTS)
-# Horror
+# Terror
 * [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
 * [Room 613](https://github.com/IliaBahmutov/Room613)
-# Rhythm Games
+
+# Juegos de Ritmo
+
 * [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
 * [RhythmSystem](https://github.com/williamrjackson/RhythmSystem) Beat Saber clone.
 
-# RPG (Role-Playing Game)
+# RPG (Juego de Rol)
 * [Unity RPG](https://github.com/Denzic/UnityRPG)
 * [Another Unity Thing](https://github.com/zombietfk/AnotherUnityThing) - ARPG
 * [JRPG](https://github.com/blkFinch/JRPG)
 
-# Remakes of existing games
+# Remakes de juegos existentes
 
 * [Darkest Dungeon Unity](https://github.com/Reinisch/Darkest-Dungeon-Unity)
 * [Megaman Unity](https://github.com/ManuelIribe18/Megaman_Unity)
@@ -67,7 +75,7 @@ Colección de ejemplos y juegos desarrollados en Unity.
 ## The Binding of Isaac
 * [The Binding of Isaac Unity](https://github.com/zengge77/The-Binding-of-Isaac-Unity)
 
-# Simulator
+# Simulador
 
 * [Railroad Station Tychoon](https://github.com/Pilus/RailroadStationTychoon)
 * [Prosperity Wars](https://github.com/Nashet/Prosperity-Wars)
@@ -80,13 +88,16 @@ Colección de ejemplos y juegos desarrollados en Unity.
 * [Flappy Bird Style Game](https://github.com/dgkanatsios/FlappyBirdStyleGame)
 * [Unity Fruit Cutter](https://github.com/tutsplus/UnityFruitCutter)
 
-# Driving
+# Conducción
 
-* [Driving Simulator](https://github.com/DingYiWen/Driving-simulator)
-* [Karting](https://github.com/SocketWeaver/karting) - Multiplayer racing game using SocketWeaver SDK
-* [Generative Racer](https://github.com/pulinho/generative-racer)
+* [Driving Simulator](https://github.com/DingYiWen/Driving-simulator) - Simulador básico de conducción.
+* [Karting](https://github.com/SocketWeaver/karting) - Carrera multijugador con SocketWeaver SDK.
+* [Karting Microgame](https://github.com/BrendanGasparin/Karting-Microgame) - Microjuego oficial estilo cartoon.
+* [Pastel Karting Microgame](https://github.com/ri734812/Pastel-Karting-Unity-Microgame) - Variante colorida del microjuego de karting.
+* [Generative Racer](https://github.com/pulinho/generative-racer) - Ejemplo experimental de IA para carreras.
+* [OpenRacer](https://github.com/Loony4Logic/OpenRacer) - Plataforma abierta para entrenar IA de conducción.
 
-# Card Games
+# Juegos de Cartas
 * [Card Game Simulator](https://github.com/finol-digital/Card-Game-Simulator) - Includes links to documentation
 * [Card Example](https://github.com/rygo6/CardExample-Unity)
 * [ycarowr - UiCard](https://github.com/ycarowr/UiCard)
@@ -99,11 +110,12 @@ Colección de ejemplos y juegos desarrollados en Unity.
 * [Muskson - Gwent Clone](https://github.com/Muskson/gwent-clone)
 * [Gwent Card](https://github.com/664235822/GwentCard) - Japanese
 
-# Tower Defense
+# Defensa de Torres
 
 * [Cat-like Coding - Tower Defense](https://catlikecoding.com/unity/tutorials/tower-defense/the-board/) - A tutorial series on tower defense games.  Includes files.
 * [Overhead](https://github.com/CarlosMatheus/Overhead)
-# FPS
+
+# FPS (Disparos en Primera Persona)
 
 * [Multiplayer FPS](https://github.com/Armour/Multiplayer-FPS) - A First Person Shooter game with multiplayer support.
 * [Learning Unity First Person Shooter](https://github.com/shacharoz/Learning-Unity-First-Person-Shooter)
@@ -114,7 +126,7 @@ Colección de ejemplos y juegos desarrollados en Unity.
 * [Pokemon Game](https://github.com/shashankgupta06/Pokemon-Game)
 * [Pokemon Battle Simulator](https://github.com/RandomDo/Pokemon-Battle-Simulator)
 * [sahmed19 - Pokemon in Unity](https://github.com/sahmed19/PokemonInUnity)
-# Game Kits
+# Kits de Juego
 
 * [Tactical Role Playing Game Maker](https://github.com/Narratech/TRPGMaker)
 
@@ -129,12 +141,13 @@ Colección de ejemplos y juegos desarrollados en Unity.
 # MMO
 
 * [Action RPG MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO)
-* [UnityMMO](https://github.com/liuhaopen/UnityMMO) - An MMO in Unity example.  Written in Japanese, I think.
+
+* [UnityMMO](https://github.com/liuhaopen/UnityMMO) - Ejemplo de MMO en Unity, documentación en japonés.
 
 
 # Demos
 
 * [Unity RTS Demo](https://github.com/stormtek/unity-rts-demo)
 
-# Tutorials
+# Tutoriales
 * [Brackeys Tower Defense Tutorial](https://github.com/Brackeys/Tower-Defense-Tutorial)

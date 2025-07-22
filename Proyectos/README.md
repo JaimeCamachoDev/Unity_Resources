@@ -2,5 +2,5 @@
 
 Ejemplos y colecciones de proyectos desarrollados con Unity.
 
-- [Games](Games/README.md)
-- [NonGames](NonGames/README.md)
+- [Juegos](Games/README.md)
+- [Sin Juego](NonGames/README.md)
