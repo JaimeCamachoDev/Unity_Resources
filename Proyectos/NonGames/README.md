@@ -1,8 +1,8 @@
 # Proyectos Sin Juego
 
 Colección de utilidades, herramientas y demos sin componente lúdico.
-* [Star Field](https://github.com/piratesjustar/starfield) - Muestra miles de estrellas con datos astronómicos reales.
 
+* [Star Field](https://github.com/piratesjustar/starfield) - Muestra miles de estrellas con datos astronómicos reales.
 * [Playing with Nibs](https://github.com/playingwithnibs/playingwithnibs) - Simulación de electromagnetismo.
 * [Weeb Master](https://github.com/azoor-guy/WeebMaster) - Herramienta para memorizar caracteres japoneses.
 * [Candy Rock Star](https://github.com/unity3d-jp/unitychan-crs) - Demo musical protagonizada por Unity-Chan.

@@ -42,13 +42,16 @@ Colección de ejemplos y juegos desarrollados en Unity.
 * [Unity Pixel Perfect](https://github.com/clifordunique/Unity-Pixel-Perfect) - Base para juegos al estilo Celeste.
 
 # RTS (Estrategia en Tiempo Real)
+
 * [Hyperion](https://github.com/fededevi/Hyperion) - Space based RTS.  It is old, but has a lot of code that could be used as a starting point.
 * [Urius - Unity RTS Game Prototype](https://github.com/urius/unity-rts-game-prototype) - Uses DOTs.
 * [Daniel KM - Unity RTS](https://github.com/DanielKM/unity-RTS)
 # Terror
 * [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
 * [Room 613](https://github.com/IliaBahmutov/Room613)
+
 # Juegos de Ritmo
+
 * [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
 * [RhythmSystem](https://github.com/williamrjackson/RhythmSystem) Beat Saber clone.
 
@@ -111,6 +114,7 @@ Colección de ejemplos y juegos desarrollados en Unity.
 
 * [Cat-like Coding - Tower Defense](https://catlikecoding.com/unity/tutorials/tower-defense/the-board/) - A tutorial series on tower defense games.  Includes files.
 * [Overhead](https://github.com/CarlosMatheus/Overhead)
+
 # FPS (Disparos en Primera Persona)
 
 * [Multiplayer FPS](https://github.com/Armour/Multiplayer-FPS) - A First Person Shooter game with multiplayer support.
@@ -137,6 +141,7 @@ Colección de ejemplos y juegos desarrollados en Unity.
 # MMO
 
 * [Action RPG MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO)
+
 * [UnityMMO](https://github.com/liuhaopen/UnityMMO) - Ejemplo de MMO en Unity, documentación en japonés.
 
 
