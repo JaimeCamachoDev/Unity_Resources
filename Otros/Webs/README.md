@@ -7,5 +7,4 @@
 - [Answer The Public](https://answerthepublic.com/es)
 
 ## Sitios de Desarrollo de Videojuegos
-- [Game Developer](https://www.gamedeveloper.com/)
 - [Game Developer](https://www.gamedeveloper.com/) - Portal con noticias y articulos
