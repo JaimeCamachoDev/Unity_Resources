@@ -21,7 +21,6 @@ Colección de ejemplos y juegos desarrollados en Unity.
 * [RSG](https://github.com/IliaBahmutov/RSG) - Retro Stealth Game, like Metal Gear on NES.
 * [GTA - San Andreas](https://github.com/GTA-ASM/SanAndreasUnity)
 * [Watson Simulator](https://github.com/BenoitBellegarde/Watson-simulator) - A simple multi-level game where you play as a cat.
-
 * [Open Ski Jumping](https://github.com/Jonek2208/Open-Ski-Jumping)
 * [Unity Open Project 1 - Chop Chop](https://github.com/UnityTechnologies/open-project-1)
 * [Lego Game](https://github.com/ditzel/LegoGame)
