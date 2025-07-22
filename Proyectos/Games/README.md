@@ -1,6 +1,6 @@
 # Proyectos de Juegos
 
-Coleccion de ejemplos y juegos desarrollados en Unity.
+Colección de ejemplos y juegos desarrollados en Unity.
 
 # Example Projects
 
@@ -15,7 +15,7 @@ Coleccion de ejemplos y juegos desarrollados en Unity.
 * [Hidden Object Game](https://github.com/cabrennan/HiddenObjGame)
 * [Mafia Unity](https://github.com/OpenMafia/MafiaUnity)
 * [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls.
-* [3D Mininig Game](https://github.com/DaKo51/3D-Mining-Game)
+* [3D Mining Game](https://github.com/DaKo51/3D-Mining-Game)
 * [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D)
 * [void fire - Top Dungeon](https://github.com/voidfire/TopDungeon)
 * [RSG](https://github.com/IliaBahmutov/RSG) - Retro Stealth Game, like Metal Gear on NES.
@@ -23,7 +23,7 @@ Coleccion de ejemplos y juegos desarrollados en Unity.
 * [Watson Simulator](https://github.com/BenoitBellegarde/Watson-simulator) - A simple multi-level game where you play as a cat.
 
 * [Open Ski Jumping](https://github.com/Jonek2208/Open-Ski-Jumping)
-
+* [Unity Open Project 1 - Chop Chop](https://github.com/UnityTechnologies/open-project-1)
 * [Lego Game](https://github.com/ditzel/LegoGame)
 * [Diablerie](https://github.com/mofr/Diablerie) - Diablo 2 in Unity
 * [Armor Critical](https://github.com/jamesh38/ArmorCritical)
@@ -36,8 +36,6 @@ Coleccion de ejemplos y juegos desarrollados en Unity.
 * [JtMeulen - Block Breaker](https://github.com/JtMeulen/unity-block-breaker)
 * [S4ND1X - Block Breaker](https://github.com/S4ND1X/UnityProjects-BlockBreaker)
 
-# Tower Defense
-* [Overhead](https://github.com/CarlosMatheus/Overhead)
 # RTS (Real Time Strategy)
 * [Hyperion](https://github.com/fededevi/Hyperion) - Space based RTS.  It is old, but has a lot of code that could be used as a starting point.
 * [Urius - Unity RTS Game Prototype](https://github.com/urius/unity-rts-game-prototype) - Uses DOTs.
@@ -45,7 +43,7 @@ Coleccion de ejemplos y juegos desarrollados en Unity.
 # Horror
 * [Doppelganger Effect](https://github.com/ddrocco/doppelganger_effect)
 * [Room 613](https://github.com/IliaBahmutov/Room613)
-# Rythm Games
+# Rhythm Games
 * [Rhythm Game Project](https://github.com/erlhuang/rhythm-game-project)
 * [RhythmSystem](https://github.com/williamrjackson/RhythmSystem) Beat Saber clone.
 
@@ -104,6 +102,7 @@ Coleccion de ejemplos y juegos desarrollados en Unity.
 # Tower Defense
 
 * [Cat-like Coding - Tower Defense](https://catlikecoding.com/unity/tutorials/tower-defense/the-board/) - A tutorial series on tower defense games.  Includes files.
+* [Overhead](https://github.com/CarlosMatheus/Overhead)
 # FPS
 
 * [Multiplayer FPS](https://github.com/Armour/Multiplayer-FPS) - A First Person Shooter game with multiplayer support.
@@ -123,12 +122,13 @@ Coleccion de ejemplos y juegos desarrollados en Unity.
 
 * [Classic StarCraft in Unity](https://github.com/coconauts/startcraft-unity3d)
 
-* [Arena Game](https://github.com/NFMynster/ArenaGame) -First person shooter
+* [Arena Game](https://github.com/NFMynster/ArenaGame) - First person shooter
+* [3D Game Kit](https://github.com/UnityTechnologies/3d-game-kit)
 
 
 # MMO
 
-* [Action RGP MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO)
+* [Action RPG MMO](https://github.com/insthync/UnityMultiplayerARPG_MMO)
 * [UnityMMO](https://github.com/liuhaopen/UnityMMO) - An MMO in Unity example.  Written in Japanese, I think.
 
 

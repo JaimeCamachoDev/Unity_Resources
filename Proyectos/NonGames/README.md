@@ -1,11 +1,13 @@
 # Proyectos Sin Juego
 
-Coleccion de utilidades, herramientas y demos sin componente lúdico.
+Colección de utilidades, herramientas y demos sin componente lúdico.
 * [Star Field](https://github.com/piratesjustar/starfield)  A project for rendering thousands of stars using real astronomical data.
 
-* [Playing with Nibs](https://github.com/playingwithnibs/playingwithnibs) - simulates electromangics.
+* [Playing with Nibs](https://github.com/playingwithnibs/playingwithnibs) - simulates electromagnetics.
 * [Weeb Master](https://github.com/azoor-guy/WeebMaster) - A tool for helping memorize Japanese characters.
 * [Candy Rock Star](https://github.com/unity3d-jp/unitychan-crs)
+* [AR Foundation Samples](https://github.com/Unity-Technologies/arfoundation-samples)
+* [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 
 # Scene Examples
 
