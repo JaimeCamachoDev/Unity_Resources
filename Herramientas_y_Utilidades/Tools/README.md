@@ -1,49 +1,49 @@
-# Tools
+# Herramientas
 
-- [Legacy Particle System Update](https://github.com/zxsean/Legacy-Particle-System-Updater) - Replaces legacy particle emitters with the particle system.  Read the ReadMe to see what versions of Unity it works on.
+- [Legacy Particle System Update](https://github.com/zxsean/Legacy-Particle-System-Updater) - Sustituye el antiguo sistema de partículas.
 
-- [AppCenter](https://github.com/microsoft/appcenter-sdk-unity)
+- [AppCenter](https://github.com/microsoft/appcenter-sdk-unity) - SDK para integrar servicios de AppCenter.
 
-- [Open Terminal](https://github.com/omid3098/OpenTerminal)
+- [Open Terminal](https://github.com/omid3098/OpenTerminal) - Acceso rápido a la terminal desde Unity.
 
-- [JCS Unity Framework](https://github.com/jcs090218/JCSUnity_Framework)
+- [JCS Unity Framework](https://github.com/jcs090218/JCSUnity_Framework) - Colección de utilidades.
 
-- [GameObject Brush](https://github.com/Kellojo/GameObject-Brush)
+- [GameObject Brush](https://github.com/Kellojo/GameObject-Brush) - Pinta objetos en la escena.
 
-- [Utiny Ripper](https://github.com/mafaca/UtinyRipper)
+- [Utiny Ripper](https://github.com/mafaca/UtinyRipper) - Extrae assets de proyectos.
 
-- [Unity DLC System](https://github.com/TheLazyLemur/Unity_DLC_System)
+- [Unity DLC System](https://github.com/TheLazyLemur/Unity_DLC_System) - Sistema básico de DLC.
 
-- [Unity Bone Tools](https://github.com/ecidevilin/UnityBoneTools) - Allows bones in rigs to be seen in the scene.
+- [Unity Bone Tools](https://github.com/ecidevilin/UnityBoneTools) - Visualiza huesos en rigs.
 
-- [Note Editor](https://github.com/setchi/NoteEditor) - A tool for rhythm games.
+- [Note Editor](https://github.com/setchi/NoteEditor) - Herramienta para juegos de ritmo.
 
-- [Unity Live 2D Extractor](https://github.com/Perfare/UnityLive2DExtractor)
+- [Unity Live 2D Extractor](https://github.com/Perfare/UnityLive2DExtractor) - Extrae archivos Live2D.
 
-# Animation
+# Animación
 
-- [Unity Runtime Animation Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder) - Creates animation clips of game object during run time.
+- [Unity Runtime Animation Recorder](https://github.com/newyellow/Unity-Runtime-Animation-Recorder) - Graba animaciones durante la ejecución.
 
-# Environment
-- [Unity Enhanced Foilage](https://github.com/marmitaTH/unity-enhanced-foliage)
+# Entorno
+- [Unity Enhanced Foilage](https://github.com/marmitaTH/unity-enhanced-foliage) - Mejora la vegetación.
 
-- [House Gen](https://github.com/jkarbows/HouseGen)
+- [House Gen](https://github.com/jkarbows/HouseGen) - Generación procedural de casas.
 
-- [Random Terrain Generation Unity](https://github.com/WeH1D/RandomTerrainGenerationUnity)
+- [Random Terrain Generation Unity](https://github.com/WeH1D/RandomTerrainGenerationUnity) - Terreno aleatorio.
 
-- [World of Warcraft Editor in Unity](https://github.com/CucFlavius/wowedit_unity)
+- [World of Warcraft Editor in Unity](https://github.com/CucFlavius/wowedit_unity) - Editor de escenarios de WoW.
 
-- [Tiled Ground Generator](https://github.com/Maximetinu/Tiled-Ground-Generator)
+- [Tiled Ground Generator](https://github.com/Maximetinu/Tiled-Ground-Generator) - Creador de suelos por mosaicos.
 
-- [3D Tilemap System](https://github.com/7StarsGames/3D-Tilemap-System) - Example images can be found here:  https://forum.unity.com/threads/free-3d-tilemap-system-for-3d-pixel-art-games.710600/
+- [3D Tilemap System](https://github.com/7StarsGames/3D-Tilemap-System) - Sistema de tilemap 3D.
 
-## Roads
-- [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)
-- [RoadCreator](https://github.com/MCrafterzz/roadcreator)
+## Carreteras
+- [RoadArchitect](https://github.com/MicroGSD/RoadArchitect) - Diseño avanzado de carreteras.
+- [RoadCreator](https://github.com/MCrafterzz/roadcreator) - Herramienta sencilla para caminos.
 
-# Material
+# Materiales
 
-- [Create Colored Material](https://github.com/Endarren/Create_Color_Material) - Allows user to create a simple colored material using a list of premade colors or your own color.
+- [Create Colored Material](https://github.com/Endarren/Create_Color_Material) - Permite crear materiales coloreados.
 
 # Visual Scripting
 | Name | Source | Description | 
@@ -53,20 +53,20 @@
 |[Ice Kori](https://github.com/molingyu/IceKori)|[molingyu](https://github.com/molingyu)|Free
 |[Artimech](https://github.com/Scramasax/Artimech)|[Scramasax](https://github.com/Scramasax/)|Free.  Used for State Machines|
 
-# Editor Tools
+# Herramientas de Editor
 
-- [UnityEditorScripts](https://github.com/korintic/UnityEditorScripts) - Includes capture main camera.
+- [UnityEditorScripts](https://github.com/korintic/UnityEditorScripts) - Permite capturar la cámara principal.
 
-- [Watch](https://github.com/wowbroforce/Watch) - Watches selected objects and variables in the scene.
+- [Watch](https://github.com/wowbroforce/Watch) - Vigila objetos y variables seleccionados.
 
-- [Sprite Dicing](https://github.com/Elringus/SpriteDicing) - Unity extension for reusing sprite texture areas https://forum.unity.com/threads/542863
+- [Sprite Dicing](https://github.com/Elringus/SpriteDicing) - Extensión para reutilizar áreas de texturas.
 
-- [Unitycoder - Unity Level Design Toolkit](https://github.com/unitycoder/UnityLevelDesignToolkit)
+- [Unitycoder - Unity Level Design Toolkit](https://github.com/unitycoder/UnityLevelDesignToolkit) - Conjunto de utilidades para nivel.
 
-- [De-Lighting Tool](https://github.com/Unity-Technologies/DeLightingTool) - Used to remove lighting information from textures.
+- [De-Lighting Tool](https://github.com/Unity-Technologies/DeLightingTool) - Sirve para eliminar la iluminación de las texturas.
 
 
-# Lip Syncing
+# Sincronización labial
 
-- [uLipSync](https://github.com/hecomi/uLipSync) - Realtime lip syncing.
+- [uLipSync](https://github.com/hecomi/uLipSync) - Sincronización labial en tiempo real.
 

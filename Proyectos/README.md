@@ -4,4 +4,3 @@ Ejemplos y colecciones de proyectos desarrollados con Unity.
 
 - [Games](Games/README.md)
 - [NonGames](NonGames/README.md)
-- [Shops](Shops/README.md)

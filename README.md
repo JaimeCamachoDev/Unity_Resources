@@ -1,4 +1,4 @@
-# Unity Resources
+# Recursos de Unity
 
 Colección organizada de enlaces y herramientas para proyectos con Unity.
 
@@ -7,7 +7,6 @@ Colección organizada de enlaces y herramientas para proyectos con Unity.
 - [Proyectos](Proyectos/README.md)
   - [Games](Proyectos/Games/README.md) - Ejemplos de juegos.
   - [NonGames](Proyectos/NonGames/README.md) - Proyectos sin temática de juego.
-  - [Shops](Proyectos/Shops/README.md) - Sistemas de tienda y comercio.
 
 - [Recursos](Recursos/README.md)
   - [Assets](Recursos/Assets/README.md)
