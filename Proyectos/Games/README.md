@@ -15,15 +15,15 @@ Colección de ejemplos y juegos desarrollados en Unity.
 
 | [<img src="https://opengraph.githubassets.com/1/OpenHogwarts/hogwarts" alt="Hogwarts" width="300"/>](https://github.com/OpenHogwarts/hogwarts) | [<img src="https://opengraph.githubassets.com/1/Symon799/AoT_FanGame" alt="Attack on Titan fan game" width="300"/>](https://github.com/Symon799/AoT_FanGame) | [<img src="https://opengraph.githubassets.com/1/OpenMafia/MafiaUnity" alt="Mafia Unity" width="300"/>](https://github.com/OpenMafia/MafiaUnity) |
 | --- | --- | --- |
-| [Hogwarts](https://github.com/OpenHogwarts/hogwarts) - Repositorio de juego en Unity | [Attack on Titan fan game](https://github.com/Symon799/AoT_FanGame) - Repositorio de juego en Unity | [Mafia Unity](https://github.com/OpenMafia/MafiaUnity) - Repositorio de juego en Unity |
+| [Hogwarts](https://github.com/OpenHogwarts/hogwarts) | [Attack on Titan fan game](https://github.com/Symon799/AoT_FanGame)  | [Mafia Unity](https://github.com/OpenMafia/MafiaUnity) |
 
 | [<img src="https://opengraph.githubassets.com/1/leotgo/BrightSouls" alt="Bright Souls" width="300"/>](https://github.com/leotgo/BrightSouls) | [<img src="https://opengraph.githubassets.com/1/daniloabella18/Dune-of-Arrakis-Unity3D" alt="Dune of Arrakis" width="300"/>](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D) | [<img src="https://opengraph.githubassets.com/1/voidfire/TopDungeon" alt="void fire - Top Dungeon" width="300"/>](https://github.com/voidfire/TopDungeon) |
 | --- | --- | --- |
-| [Bright Souls](https://github.com/leotgo/BrightSouls) - An indie game based on Dark Souls. | [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D) - Repositorio de juego en Unity | [void fire - Top Dungeon](https://github.com/voidfire/TopDungeon) - Repositorio de juego en Unity |
+| [Bright Souls](https://github.com/leotgo/BrightSouls) | [Dune of Arrakis](https://github.com/daniloabella18/Dune-of-Arrakis-Unity3D) | [void fire - Top Dungeon](https://github.com/voidfire/TopDungeon) |
 
 | [<img src="https://opengraph.githubassets.com/1/IliaBahmutov/RSG" alt="RSG" width="300"/>](https://github.com/IliaBahmutov/RSG) | [<img src="https://opengraph.githubassets.com/1/GTA-ASM/SanAndreasUnity" alt="GTA - San Andreas" width="300"/>](https://github.com/GTA-ASM/SanAndreasUnity) | [<img src="https://opengraph.githubassets.com/1/BenoitBellegarde/Watson-simulator" alt="Watson Simulator" width="300"/>](https://github.com/BenoitBellegarde/Watson-simulator) |
 | --- | --- | --- |
-| [RSG](https://github.com/IliaBahmutov/RSG) - Retro Stealth Game, like Metal Gear on NES. | [GTA - San Andreas](https://github.com/GTA-ASM/SanAndreasUnity) - Repositorio de juego en Unity | [Watson Simulator](https://github.com/BenoitBellegarde/Watson-simulator) - A simple multi-level game where you play as a cat. |
+| [RSG](https://github.com/IliaBahmutov/RSG) | [GTA - San Andreas](https://github.com/GTA-ASM/SanAndreasUnity) | [Watson Simulator](https://github.com/BenoitBellegarde/Watson-simulator) |
 
 
 | [<img src="https://opengraph.githubassets.com/1/Jonek2208/Open-Ski-Jumping" alt="Open Ski Jumping" width="300"/>](https://github.com/Jonek2208/Open-Ski-Jumping) | [<img src="https://opengraph.githubassets.com/1/UnityTechnologies/open-project-1" alt="Unity Open Project 1 - Chop Chop" width="300"/>](https://github.com/UnityTechnologies/open-project-1) | [<img src="https://opengraph.githubassets.com/1/ditzel/LegoGame" alt="Lego Game" width="300"/>](https://github.com/ditzel/LegoGame) |
