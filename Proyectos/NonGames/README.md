@@ -13,6 +13,9 @@ Colección de utilidades, herramientas y demos realizadas con Unity.
 | [<img src="https://opengraph.githubassets.com/1/aren227/unity-fluid-simulation" alt="Unity Fluid Simulation" width="300"/>](https://github.com/aren227/unity-fluid-simulation) | [<img src="https://opengraph.githubassets.com/1/eliasts/Ocean_Community_Next_Gen" alt="Ocean Community" width="300"/>](https://github.com/eliasts/Ocean_Community_Next_Gen) | [<img src="https://opengraph.githubassets.com/1/RobotecAI/ros2-for-unity" alt="ROS2 for Unity" width="300"/>](https://github.com/RobotecAI/ros2-for-unity) |
 | --- | --- | --- |
 | [Unity Fluid Simulation](https://github.com/aren227/unity-fluid-simulation) | [Ocean Community Next Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) | [ROS2 for Unity](https://github.com/RobotecAI/ros2-for-unity) |
+| [<img src="https://opengraph.githubassets.com/1/Unity-Technologies/ml-agents" alt="ML Agents" width="300"/>](https://github.com/Unity-Technologies/ml-agents) | [<img src="https://opengraph.githubassets.com/1/Unity-Technologies/EntityComponentSystemSamples" alt="ECS Samples" width="300"/>](https://github.com/Unity-Technologies/EntityComponentSystemSamples) | [<img src="https://opengraph.githubassets.com/1/Unity-Technologies/com.unity.uiwidgets" alt="UIWidgets" width="300"/>](https://github.com/Unity-Technologies/com.unity.uiwidgets) |
+| --- | --- | --- |
+| [ML-Agents](https://github.com/Unity-Technologies/ml-agents) | [Entity Component System Samples](https://github.com/Unity-Technologies/EntityComponentSystemSamples) | [UIWidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets) |
 
 ## Escenas de ejemplo
 
