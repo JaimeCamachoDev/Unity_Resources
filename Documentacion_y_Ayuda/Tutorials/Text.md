@@ -29,7 +29,7 @@ This website has a few tutorial series that are pretty informative.
 
 * [Loot-Tables, Random Maps and Monsters](https://www.codeproject.com/Articles/420046/Loot-Tables-Random-Maps-and-Monsters-Part-II)
 #### [Folio3](http://www.folio3.com/blog)
-* [Creating Dynamic Scrollable Lists with New Unity Canvas UI](http://www.folio3.com/blog/creating-dynamic-scrollable-lists-with-new-unity-canvas-ui/)
+* [Creating Dynamic Scrollable Lists with New Unity Canvas UI](https://web.archive.org/web/20190213212429/http://www.folio3.com:80/blog/creating-dynamic-scrollable-lists-with-new-unity-canvas-ui/)
 #### [Kyle Halladay](http://kylehalladay.com/archive.html)
 
 * [Screen Space Distortion and a Sci-fi Shield Effect](http://kylehalladay.com/blog/tutorial/2016/01/15/Screen-Space-Distortion.html)

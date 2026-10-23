@@ -62,7 +62,7 @@
 | Name | Description |
 | ------------- |-------------|
 | [SwissArmyLib - Automata](https://github.com/ArchonInteractive/SwissArmyLib/tree/master/Archon.SwissArmyLib/Automata)
-| [Finite State Machine - Unify Wiki](http://wiki.unity3d.com/index.php?title=Finite_State_Machine)
+| [Finite State Machine - Unify Wiki](http://wiki.unity3d.com/index.php?title=Finite_State_Machine) *(enlace caído)*
 
 
 ## Utility Theory

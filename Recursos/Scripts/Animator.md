@@ -25,7 +25,7 @@
 * [Live2D Wikipedia](https://en.wikipedia.org/wiki/Live2D)
 * [Live2D Animation Controller Structure in Unity](https://medium.com/akatsuki-taiwan-technology/live2d-animation-controller-structure-in-unity-part-1-3124977fc3bc)
 ## Help
-* [Collision with Live2D](https://www.tutorialfor.com/questions-96624.htm)
+* [Collision with Live2D](https://www.tutorialfor.com/questions-96624.htm) *(enlace caído)*
 * [Cubism SDK - Getting Started - English](https://docs.live2d.com/cubism-sdk-tutorials/getting-started/?locale=en_us#)
 ## Code
 * [Cubism Unity Components](https://github.com/Live2D/CubismUnityComponents)

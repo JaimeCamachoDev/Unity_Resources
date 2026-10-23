@@ -62,7 +62,7 @@ Does a raycast along the path of a projectile's arc.
 ## Objects
 * [Fake Hanging Chains](https://github.com/forestrf/Fake-hanging-chains)
 ## Tips
-* [Physics Best Practices](https://unity3d.com/learn/tutorials/topics/physics/physics-best-practices?playlist=30089)
+* [Physics Best Practices](https://web.archive.org/web/20160820134411/http://unity3d.com:80/learn/tutorials/topics/physics/physics-best-practices?playlist=30089)
 
 
 

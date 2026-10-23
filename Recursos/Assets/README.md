@@ -7,7 +7,7 @@ Este directorio contiene varios recursos utilizados en el proyecto Unity.
 
 ## Reseñas
 
-- [Best Free Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Selección de assets gratuitos recomendados.
+- [Best Free Assets](https://web.archive.org/web/20250209235014/https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - Selección de assets gratuitos recomendados.
 
 ## [The Messy Coder](https://www.youtube.com/channel/UCeXJl4hWkgS-wvtvRtS_y2w) - Canal con análisis de assets.
 - [Asset Reviews](https://www.youtube.com/watch?v=vtAT3TDmcWY&list=PL2R4tvBs-r1mlUZ1JRVdwhG7__h5AQuXI) - Lista de revisiones de assets.

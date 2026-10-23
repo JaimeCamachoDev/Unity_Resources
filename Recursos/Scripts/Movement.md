@@ -17,7 +17,7 @@
 # Steering Behaviours
 ## Code
 * [Movement Algorithms](https://github.com/pingumen96/MovementAlgorithms)
-* [A* Helper](http://wiki.unity3d.com/index.php/AStarHelper)
+* [A* Helper](https://web.archive.org/web/20200701184826/http://wiki.unity3d.com:80/index.php/AStarHelper)
 * [Kultie - Unity ECS Steering Behavior](https://github.com/kultie/Unity-ECS-SteeringBehavior) - An implementation of steering behavior that uses the ECS.  Still underwork.
 ## Articles
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)

@@ -54,7 +54,7 @@ Here are some scripts and projects that I have found useful. They have been orga
 ## Influence Map/HeatMap
 * [Influence Map](https://github.com/AliKarimi74/InfluenceMap)
 * [Heat Map](https://github.com/karl-/unity-heatmap)
-* [Heat Map - Unity-Technologies](https://bitbucket.org/Unity-Technologies/heatmaps)
+* [Heat Map - Unity-Technologies](https://bitbucket.org/Unity-Technologies/heatmaps) *(enlace caído)*
 
 
 
@@ -66,16 +66,16 @@ Here are some scripts and projects that I have found useful. They have been orga
 
 ### Other
 * [How to write a GUI editor for Graph or Tree structures](https://stackoverflow.com/questions/17593101/how-to-write-a-gui-editor-for-graph-or-tree-structures)
-* [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3)
-* [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps)
-* [Unity RPG](https://bitbucket.org/generalbrolys/rpg-unity/src/9a3695e636ff?at=master)
-* [HydraCommon](https://bitbucket.org/thisishydra/hydracommon/src/3ad5f7c37ffc?at=master) - Collection of utility scripts and extensions.
+* [Unity UI Extensions](https://bitbucket.org/maulikkaloliya/unity-ui-extensions-new/src/54637fbbd9fc6418ac4febffef0c65b7b0f3b2d0/Scripts/?at=develop_5.3) *(enlace caído)*
+* [Heat Maps](https://bitbucket.org/Unity-Technologies/heatmaps) *(enlace caído)*
+* [Unity RPG](https://bitbucket.org/generalbrolys/rpg-unity/src/9a3695e636ff?at=master) *(enlace caído)*
+* [HydraCommon](https://bitbucket.org/thisishydra/hydracommon/src/3ad5f7c37ffc?at=master) *(enlace caído)* - Collection of utility scripts and extensions.
 ### [Armedunity](http://armedunity.com/index.php?)
 (FORUM) Requires account to see posted code, but accounts are free.
 * [Terrain Deformation in real time](https://armedunity.com/topic/5-unity3d-terrain-deformation-real-time/)
 * [Cone of Sight](https://armedunity.com/topic/10352-cone-of-sight/)
-### [Unity 3D Script Library](http://unity3dscriptlibrary.codeplex.com/)
-### [Unify Community](http://wiki.unity3d.com/index.php/Main_Page)
+### [Unity 3D Script Library](https://web.archive.org/web/20171223050151/http://unity3dscriptlibrary.codeplex.com/)
+### [Unify Community](https://web.archive.org/web/20210624235342/https://wiki.unity3d.com/index.php/Main_Page)
 * Has many scripts, but has not been updated lately.  At least with anything Unity related.  I still recommend checking it out.
 ### [Trinit](http://trinit.es/unity/)
 (TEXT) Code was written in Spanish (I think).
